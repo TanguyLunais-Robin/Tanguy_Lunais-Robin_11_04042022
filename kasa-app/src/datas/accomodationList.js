@@ -1,4 +1,4 @@
-export const rentalList = [
+export const accomodationList = [
 	{
 		"id": "c67ab8a7",
 		"title": "Appartement cosy",
@@ -616,4 +616,4 @@ export const rentalList = [
 			"Rivoli"
 		]
 	}
-] 
+]
