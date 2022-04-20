@@ -1,7 +1,10 @@
+//Recat
 import React from "react";
 
+//CSS
 import "../styles/Dropdown.css"
 
+//Assets
 import up from "../assets/Up.svg"
 import down from "../assets/Down.svg"
 

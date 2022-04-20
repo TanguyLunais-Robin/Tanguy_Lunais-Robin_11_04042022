@@ -1,6 +1,8 @@
+//Recat
 import React from "react";
 import {Link} from "react-router-dom"
 
+//CSS
 import "../styles/Error.css"
 
 class Error extends React.Component {
