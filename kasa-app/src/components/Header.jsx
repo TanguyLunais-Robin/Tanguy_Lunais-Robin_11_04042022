@@ -3,7 +3,7 @@ import React from "react";
 import {Link, NavLink} from "react-router-dom"
 
 //Assets
-import logo from "../assets/Logo.svg"
+import logo from "../assets/logo.svg"
 
 //CSS
 import "../styles/Header.css"
