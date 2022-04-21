@@ -1,10 +1,11 @@
-//Recat
+//React
 import React from "react";
 import {Link} from "react-router-dom"
 
 //CSS
 import "../styles/Error.css"
 
+//Component error: 404 error page
 class Error extends React.Component {
     render() {
         return (
@@ -17,4 +18,4 @@ class Error extends React.Component {
     }
 }
 
-export default Error 
+export default Error
